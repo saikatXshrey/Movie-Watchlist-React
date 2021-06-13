@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Movie-Watchlist-React/static/css/main.fa30ac5e.chunk.css",
+    "main.js": "/Movie-Watchlist-React/static/js/main.98b95187.chunk.js",
+    "main.js.map": "/Movie-Watchlist-React/static/js/main.98b95187.chunk.js.map",
+    "runtime-main.js": "/Movie-Watchlist-React/static/js/runtime-main.d88ef4a9.js",
+    "runtime-main.js.map": "/Movie-Watchlist-React/static/js/runtime-main.d88ef4a9.js.map",
+    "static/js/2.fe8b65ec.chunk.js": "/Movie-Watchlist-React/static/js/2.fe8b65ec.chunk.js",
+    "static/js/2.fe8b65ec.chunk.js.map": "/Movie-Watchlist-React/static/js/2.fe8b65ec.chunk.js.map",
+    "static/js/3.12070e34.chunk.js": "/Movie-Watchlist-React/static/js/3.12070e34.chunk.js",
+    "static/js/3.12070e34.chunk.js.map": "/Movie-Watchlist-React/static/js/3.12070e34.chunk.js.map",
+    "index.html": "/Movie-Watchlist-React/index.html",
+    "static/css/main.fa30ac5e.chunk.css.map": "/Movie-Watchlist-React/static/css/main.fa30ac5e.chunk.css.map",
+    "static/js/2.fe8b65ec.chunk.js.LICENSE.txt": "/Movie-Watchlist-React/static/js/2.fe8b65ec.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/Movie-Watchlist-React/static/media/fa-solid-900.a940d584.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d88ef4a9.js",
+    "static/js/2.fe8b65ec.chunk.js",
+    "static/css/main.fa30ac5e.chunk.css",
+    "static/js/main.98b95187.chunk.js"
+  ]
+}
