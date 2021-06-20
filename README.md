@@ -34,6 +34,7 @@ Api used : [The Movie DataBase](https://www.themoviedb.org/)
 | `api_key` | `string` | **Required**. Your API key |
 | `movie name`      | `string` | **Required**. Name of movie to fetch |
   
+  
 ## Run Locally
 
 Clone the project
@@ -60,6 +61,7 @@ Start the server
   npm run start
 ```
 
+  
   
 ## Deployment
 
