@@ -1,9 +1,12 @@
 
 # Movie Watchlist React
 
-This app helps you search any movie from the web any helps you keep track on your "Watchlist", "Watched".
+This app helps you search any movie from the web any helps you keep track of your "Watchlist", "Watched".
 
-You can also move your movies from "Watched" to "Watchlist" and vice-versa
+You can remove any movie,move your movies from "Watched" to "Watchlist" and vice-versa and the total number of movie in list will be shown along with the movie cards.
+
+It is very benefecial for movie addictive people who can't keep track of the movies they saw/willing to see.
+
 ## API Reference
 
 Api used : [The Movie DataBase](https://www.themoviedb.org/)
