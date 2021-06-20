@@ -11,7 +11,7 @@ It is very benefecial for movie addictive people who can't keep track of the mov
 
 Project Demo
 
-
+https://user-images.githubusercontent.com/76695320/122665382-79ab5980-d1c4-11eb-939e-5d101c140d3d.mp4
 
   
 ## Screenshots
