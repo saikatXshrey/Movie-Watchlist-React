@@ -9,12 +9,32 @@ It is very benefecial for movie addictive people who can't keep track of the mov
 
 ## Demo
 
-Insert gif or link to demo
+Project Demo
+
+
 
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (1019)](https://user-images.githubusercontent.com/76695320/122665199-7fed0600-d1c3-11eb-8f80-9dfa308fdd11.png)
+
+![Screenshot (1020)](https://user-images.githubusercontent.com/76695320/122665204-85e2e700-d1c3-11eb-8f6b-4d0aef3c4fde.png)
+
+![Screenshot (1021)](https://user-images.githubusercontent.com/76695320/122665210-8aa79b00-d1c3-11eb-97a6-ab25d4d498e7.png)
+
+![Screenshot (1022)](https://user-images.githubusercontent.com/76695320/122665212-9004e580-d1c3-11eb-950d-1593809a63aa.png)
+
+![Screenshot (1023)](https://user-images.githubusercontent.com/76695320/122665215-94c99980-d1c3-11eb-918b-f8115331d53f.png)
+
+![Screenshot (1024)](https://user-images.githubusercontent.com/76695320/122665224-9d21d480-d1c3-11eb-91b4-99f9d16d0617.png)
+
+![Screenshot (1025)](https://user-images.githubusercontent.com/76695320/122665228-a27f1f00-d1c3-11eb-8616-de28da4f6a15.png)
+
+![Screenshot (1027)](https://user-images.githubusercontent.com/76695320/122665231-a9a62d00-d1c3-11eb-82de-9bd364973e35.png)
+
+![Screenshot (1028)](https://user-images.githubusercontent.com/76695320/122665237-ae6ae100-d1c3-11eb-9342-91898f5a930e.png)
+
+![Screenshot (1029)](https://user-images.githubusercontent.com/76695320/122665241-b296fe80-d1c3-11eb-8b13-4ffc97237b39.png)
 
 
 ## API Reference
